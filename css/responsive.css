@@ -1,0 +1,83 @@
+@media  screen and (max-width: 720px){
+    .nav-item {
+        padding-left: 10px !important;
+        margin-bottom: 7px;
+    }
+    #hero {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .hero-box h1 {
+        font-size: 30px;
+        margin: 15px 0;
+    }
+    .hero-box h5 {
+        font-size: 18px;
+    }
+    .hero-box{
+        margin-bottom: 50px;
+    }
+    .purpose-box h2 {
+        font-size: 26px;
+    }
+    .purpose-box {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .program-box {
+        width: 100%;
+    }
+    .program-box h2 {
+        font-size: 28px;
+    }
+    .footer-main {
+        flex-flow: column;
+    }
+    .footer-left p {
+        font-size: 17px;
+    }
+    .footer-right ul li a img {
+        width: 30px;
+        margin-top: 20px;
+    }
+    .about-hero h1 {
+        font-size: 28px;
+    }
+    .res-top{
+        margin-top: 30px;
+    }
+    .academic-box h1 img {
+        width: 30px;
+        margin-right: 5px;
+    }
+    .academic-box h1 {
+        font-size: 26px;
+    }
+    .career-box h1 img {
+        width: 30px;
+        margin-right: 5px;
+    }
+    .career-box h1 {
+        font-size: 26px;
+    }
+    .goals-box h1 {
+        font-size: 30px;
+    }
+    .profile-details h2{
+        font-size: 26px;
+    }
+    .profile-box {
+        flex-flow: column;
+        text-align: center;
+        padding: 25px 15px;
+    }
+    .profile-box-img img {
+        width: 80px;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+    .title h1 {
+        font-size: 32px;
+        margin-bottom: 30px;
+    }
+}
