@@ -44,6 +44,9 @@ const mainMenu = `
                         </li>
 
                         <li class="nav-item">
+                            <a href="psychological.html"> Psychological</a>
+                        </li>
+                        <li class="nav-item">
                             <a href="contact.html"> Contact</a>
                         </li>
 
