@@ -47,6 +47,12 @@ const mainMenu = `
                             <a href="psychological.html"> Psychological</a>
                         </li>
                         <li class="nav-item">
+                            <a href="digital-evidence.html"> Digital Evidence </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="rationale.html"> Rationale </a>
+                        </li>
+                        <li class="nav-item">
                             <a href="contact.html"> Contact</a>
                         </li>
 
