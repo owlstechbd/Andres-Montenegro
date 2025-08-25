@@ -68,7 +68,6 @@ li {
     font-size: 12px;
     font-weight: 600;
     transition: .4s ease;
-    text-transform: uppercase;
 }
 
 .nav-item a:hover {
@@ -1293,5 +1292,125 @@ li {
     
     .Rationale-list {
         padding-left: 15px;
+    }
+}
+
+.pros-hero img{
+    width: 100%;
+    padding: 30px 0;
+}
+.CommitteeMembers h1{
+    text-align: center;
+    font-size: 50px;
+}
+.committee{
+    padding: 30px 0;
+}
+.committee ul{
+    width: 70%;
+    margin: 0 auto;
+    padding: 150px 0;
+}
+.committee ul li{
+    font-size: 35px;
+}
+.logo-m{
+    width: 100%;
+    text-align: center;
+}
+.logo-m img{
+    margin-bottom: 40px;
+}
+
+.committee a{
+    background: #019DB3;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 4px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+
+/* Research Design Styles */
+.Research-container {
+    padding: 100px 0;
+    border-radius: 5px;
+}
+
+.Research-heading {
+    color: #023047;
+    font-size: 2.2rem;
+    margin-bottom: 30px;
+    text-align: center;
+
+    padding-bottom: 15px;
+}
+
+.Research-section {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.Research-subheading {
+    color: #023047;
+    font-size: 1.7rem;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #019DB3;
+    padding-bottom: 8px;
+}
+
+.Research-subsection {
+    margin-bottom: 25px;
+}
+
+.Research-topic {
+    color: #023047;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.Research-paragraph {
+    color: #4A4A4A;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .Research-heading {
+        font-size: 1.8rem;
+    }
+    
+    .Research-subheading {
+        font-size: 1.4rem;
+    }
+    
+    .Research-container,
+    .Research-section {
+        padding: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .Research-heading {
+        font-size: 1.6rem;
+    }
+    
+    .Research-subheading {
+        font-size: 1.3rem;
+    }
+    
+    .Research-container,
+    .Research-section {
+        padding: 10px;
+    }
+    
+    .Research-topic {
+        font-size: 1.1rem;
     }
 }

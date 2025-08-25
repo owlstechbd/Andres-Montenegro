@@ -53,6 +53,12 @@ const mainMenu = `
                             <a href="rationale.html"> Rationale </a>
                         </li>
                         <li class="nav-item">
+                            <a href="prospectus.html"> Prospectus </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="integrated.html"> Integrated  </a>
+                        </li>
+                        <li class="nav-item">
                             <a href="contact.html"> Contact</a>
                         </li>
 

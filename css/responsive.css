@@ -80,4 +80,15 @@
         font-size: 32px;
         margin-bottom: 30px;
     }
+
+    .CommitteeMembers h1{
+        font-size: 30px;
+    }
+    .committee ul{
+        width: 100%;
+        padding: 30px 0;
+    }
+    .committee ul li{
+        font-size: 18px;
+    }
 }
