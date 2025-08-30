@@ -54,7 +54,7 @@ li {
 }
 
 .nav-item {
-    padding-left: 11px !important;
+    padding-left: 7px !important;
     list-style: none;
 }
 
@@ -65,7 +65,7 @@ li {
 .nav-item a {
     text-decoration: none;
     color: #000;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: 600;
     transition: .4s ease;
 }
@@ -1413,4 +1413,13 @@ li {
     .Research-topic {
         font-size: 1.1rem;
     }
+}
+
+.oputcome-p p{
+    text-align: left;
+    padding: 0 5px;
+}
+
+.amazing-text a{
+    margin: 0 20px;
 }
