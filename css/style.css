@@ -182,14 +182,20 @@ li {
     color: #FFFFFF;
     font-size: 45px;
 }
+.about-hero p{
+    font-size: 25px;
+    color: #fff;
+}
 
 .about-hero ul {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .about-hero ul li {
     margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 .about-hero ul li i {
@@ -198,7 +204,7 @@ li {
 }
 
 .about-hero ul li a {
-    font-size: 18px;
+    font-size: 15px;
     color: #FFFFFF;
 }
 
@@ -1422,4 +1428,10 @@ li {
 
 .amazing-text a{
     margin: 0 20px;
+}
+.target-class{
+    padding: 60px 0;
+}
+.target-class ul li a{
+
 }
